@@ -1,3 +1,4 @@
 merhaba
 ck102 dersine hoşgeldiniz
-ders başlıyor
+ders başlıyo
+geliştirme 1
