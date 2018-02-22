@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ahmet bey 
 hamsi
+=======
+merhaba
+>>>>>>> 604cda311af8eb5a3992982344959cdb76097e82
 ck102 dersine hoşgeldiniz
-ders başlıyor
+ders başlıyo
+geliştirme 1
