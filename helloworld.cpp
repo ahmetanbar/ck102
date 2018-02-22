@@ -4,6 +4,6 @@
 int main(void)
 {
  system("color a");
- printf("Hello World \n Merhaba Dünya");
+ printf("Hello World \n Merhaba Dunya");
  system("pause");
 }
