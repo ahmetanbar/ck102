@@ -1,1 +1,2 @@
 ck102 dersi alıştırması.
+2.commit çalışması.
